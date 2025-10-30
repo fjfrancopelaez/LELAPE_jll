@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: LELAPE_handbook.aux
+A level-1 auxiliary file: ./TeX_files/chapter01.aux
+A level-1 auxiliary file: ./TeX_files/chapter02.aux
+A level-1 auxiliary file: ./TeX_files/chapter03.aux
+A level-1 auxiliary file: ./TeX_files/chapter04.aux
+The style file: ieeetr.bst
+Database file #1: LELAPE_bibliography.bib
+You've used 9 entries,
+            1876 wiz_defined-function locations,
+            544 strings with 5517 characters,
+and the built_in function-call counts, 3288 in all, are:
+= -- 328
+> -- 148
+< -- 0
++ -- 53
+- -- 44
+* -- 254
+:= -- 471
+add.period$ -- 10
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 152
+empty$ -- 267
+format.name$ -- 44
+if$ -- 795
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 8
+newline$ -- 31
+num.names$ -- 9
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 131
+stack$ -- 0
+substring$ -- 276
+swap$ -- 82
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 28
+width$ -- 10
+write$ -- 101

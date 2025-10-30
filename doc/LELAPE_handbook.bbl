@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{Franco2017}
+F.~J. Franco {\em et~al.}, ``{Statistical Deviations From the Theoretical
+  Only-SBU Model to Estimate MCU Rates in SRAMs},'' {\em IEEE Transactions on
+  Nuclear Science}, vol.~64, no.~8, pp.~2152--2160, 2017.
+
+\bibitem{Fabero2020}
+J.~C. Fabero {\em et~al.}, ``{Single Event Upsets Under 14-MeV Neutrons in a
+  28-nm SRAM-Based FPGA in Static Mode},'' {\em IEEE Transactions on Nuclear
+  Science}, vol.~67, no.~7, pp.~1461--1469, 2020.
+
+\bibitem{Tausch2009}
+H.~J. Tausch, ``{Simplified Birthday Statistics and Hamming EDAC},'' {\em IEEE
+  Transactions on Nuclear Science}, vol.~56, no.~2, pp.~474--478, 2009.
+
+\bibitem{Franco2020}
+F.~J. Franco, J.~A. Clemente, G.~Korkian, J.~C. Fabero, H.~Mecha, and
+  R.~Velazco, ``{Inherent Uncertainty in the Determination of Multiple Event
+  Cross Sections in Radiation Tests},'' {\em IEEE Transactions on Nuclear
+  Science}, vol.~67, no.~7, pp.~1547--1554, 2020.
+
+\bibitem{bezanson2017julia}
+J.~Bezanson, A.~Edelman, S.~Karpinski, and V.~B. Shah, ``Julia: A fresh
+  approach to numerical computing,'' {\em SIAM review}, vol.~59, no.~1,
+  pp.~65--98, 2017.
+
+\bibitem{Gupta2017}
+V.~Gupta, ``{Analysis of single event radiation effects and fault mechanisms in
+  SRAM, FRAM and NAND Flash : application to the MTCube nanosatellite
+  project.},'' Master's thesis, Université de Montpellier, 2017.
+\newblock Electronics. English. ffNNT : 2017MONTS087ff. fftel-01954572f.
+  Available on https://tel.archives-ouvertes.fr/tel-01954572.
+
+\bibitem{Tsiligiannis2014a}
+G.~Tsiligiannis, L.~Dilillo, A.~Bosio, P.~Girard, S.~Pravossoudovitch,
+  A.~Todri, A.~Virazel, H.~Puchner, C.~Frost, F.~Wrobel, and F.~Saigné,
+  ``{Multiple Cell Upset Classification in Commercial SRAMs},'' {\em IEEE
+  Transactions on Nuclear Science}, vol.~61, no.~4, pp.~1747--1754, 2014.
+
+\bibitem{Tsiligiannis2014b}
+G.~Tsiligiannis, L.~Dilillo, V.~Gupta, A.~Bosio, P.~Girard, A.~Virazel,
+  H.~Puchner, A.~Bosser, A.~Javanainen, A.~Virtanen, C.~Frost, F.~Wrobel,
+  L.~Dusseau, and F.~Saigné, ``{Dynamic Test Methods for COTS SRAMs},'' {\em
+  IEEE Transactions on Nuclear Science}, vol.~61, no.~6, pp.~3095--3102, 2014.
+
+\bibitem{Perez-Celis2021}
+A.~Pérez-Celis, C.~Thurlow, and M.~Wirthlin, ``{Identifying Radiation-Induced
+  Micro-SEFIs in SRAM FPGAs},'' {\em IEEE Transactions on Nuclear Science},
+  vol.~68, no.~10, pp.~2480--2487, 2021.
+
+\end{thebibliography}

@@ -1,0 +1,13 @@
+name = "LELAPE_jll"
+uuid = "756a06fa-a1b3-4c2c-b2bb-b2733bf7ddd5"
+authors = ["fjfrancopelaez <fjfranco@fis.ucm.es> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

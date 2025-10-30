@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.1"
+manifest_format = "2.0"
+project_hash = "ed2135d1ebe0f50a950b5e08750add4e00afa447"
+
+[[deps.LELAPE_jll]]
+path = "."
+uuid = "756a06fa-a1b3-4c2c-b2bb-b2733bf7ddd5"
+version = "1.0.0-DEV"
